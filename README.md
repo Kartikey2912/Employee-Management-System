@@ -4,7 +4,7 @@ This project’s main aim is to make a system that manages employees in the comp
 # Packages Required
 1.) MySQL client \
 2.) mysql-connector-python\
-3.) pymysql\
+3.) pymysql
 
 After you install a MySQL package, you are ready to work with actual databases.
 
